@@ -1,0 +1,16 @@
+[submodule "deps/ConfigParserEnhanced"]
+	path = deps/ConfigParserEnhanced
+	url = git@github.com:sandialabs/code/ConfigParserEnhanced.git
+	branch = master
+[submodule "deps/SetEnvironment"]
+	path = deps/SetEnvironment
+	url = git@github.com:sandialabs/code/SetEnvironment.git
+	branch = master
+[submodule "deps/DetermineSystem"]
+	path = deps/DetermineSystem
+	url = git@github.com:sandialabs/code/determinesystem.git
+	branch = master
+[submodule "deps/KeywordParser"]
+	path = deps/KeywordParser
+	url = git@github.com:sandialabs/code/KeywordParser.git
+	branch = master

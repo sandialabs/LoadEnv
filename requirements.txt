@@ -1,0 +1,8 @@
+# Unit Testing Requirements
+pytest
+pytest-cov
+
+# Repositories
+setenvironment @ git+ssh://git@github.com/sandialabs/SetEnvironment.git@master#egg=setenvironment
+determinesystem @ git+ssh://git@github.com/sandialabs/DetermineSystem.git@master#egg=determinesystem
+keywordparser @ git+ssh://git@github.com/sandialabs/KeywordParser.git@master#egg=keywordparser
